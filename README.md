@@ -7,13 +7,6 @@ Our team was presented with a unique challenge at a Halloween-themed hackathon t
 
 This challenge tested both our technical and creative skills, requiring us to conceptualize a playful yet functional design that would stand out. We incorporated familiar dating app features but reimagined them with Halloween-themed elements, creating an engaging and entertaining experience for users. Through this process, we honed our abilities to think outside the box, collaborate efficiently under a tight 24hr deadline, and deliver a prototype that aligned with the hackathon’s goal of innovative, seasonal design.
 
-## Tech Stack
-- React
-- TypeScript
-- Node.js
-- MongoDB
-- Figma
-
 ## Demo
 <img width="1680" alt="MonsterMatch1" src="https://github.com/user-attachments/assets/fafbfe49-3025-4870-9d90-75f10da39e61">
 <img width="1680" alt="MonsterMatch2" src="https://github.com/user-attachments/assets/83d01c61-5db6-4734-ab87-170e6c1e6d9e">
