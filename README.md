@@ -1,4 +1,4 @@
-### hackUNT 2024 - halloween challenge
+### HackUNT 2024 - Halloween Challenge
 
 The task our team was presented with, was to design a Halloween themed app targeted for a supernatural audience. 
 
